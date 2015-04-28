@@ -15,7 +15,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-
+/**
+ * 逗圣刘
+ */
 public class MainActivity extends ActionBarActivity {
     private static final String uuid = "4e3a500b-1ba9-4c3f-a5fe-76cb46608b5f";
 
